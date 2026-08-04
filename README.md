@@ -5,10 +5,6 @@
   <a href="https://github.com/matthewagoldberg">
     <img src="https://img.shields.io/badge/GitHub-matthewagoldberg-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
-  <img src="https://img.shields.io/badge/HVAC-Commercial-blue?style=for-the-badge" alt="Commercial HVAC" />
-  <img src="https://img.shields.io/badge/Building%20Automation-Controls-success?style=for-the-badge" alt="Building Automation and Controls" />
-  <img src="https://img.shields.io/badge/Linux-Experienced-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Security%20Focused-red?style=for-the-badge" alt="Cybersecurity" />
 </p>
 
 ---
