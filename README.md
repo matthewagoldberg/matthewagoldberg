@@ -207,15 +207,6 @@ I want to bridge the gap between mechanical systems, controls, networking, and s
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matthewagoldberg&show_icons=true&hide_border=true" alt="Matthew's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewagoldberg&layout=compact&hide_border=true" alt="Matthew's Top Languages" />
-</p>
-
----
-
 <p align="center">
   <strong>Mechanical systems. Electrical controls. Networks. Software.</strong>
 </p>
