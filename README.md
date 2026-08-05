@@ -24,7 +24,7 @@ My background spans HVAC, software development, Linux, networking, cybersecurity
 
 ---
 
-## 🧠 Technical Focus
+# 🧠 Technical Focus
 
 ### 🏢 Building Automation and HVAC
 
