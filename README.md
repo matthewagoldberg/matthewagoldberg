@@ -22,6 +22,7 @@ My background spans HVAC, software development, Linux, networking, cybersecurity
 * 🔌 Comfortable working with both physical equipment and software systems
 * 📈 Interested in BAS service, controls programming, commissioning, integration, and field troubleshooting
 
+---
 
 ## 🧠 Technical Focus
 
